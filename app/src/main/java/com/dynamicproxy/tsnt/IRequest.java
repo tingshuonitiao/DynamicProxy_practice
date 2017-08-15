@@ -6,7 +6,7 @@ import java.util.Map;
  * Created by ting说你跳 on 2017/8/14.
  */
 
-public interface xxx {
+public interface IRequest {
 
     String url();
 
